@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c6cd132-8a66-44fc-995f-c177a515f6ef" name="Default Changelist" comment="" />
+    <list default="true" id="2c6cd132-8a66-44fc-995f-c177a515f6ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/responseapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/templates/orf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/templates/responseform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/responseapp/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,9 +135,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="360" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
     <option name="width" value="1548" />
     <option name="height" value="877" />
   </component>
@@ -159,6 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -201,7 +215,7 @@
     <option name="totallyTimeSpent" value="10150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="23" width="1548" height="877" extended-state="1" />
+    <frame x="97" y="360" width="1548" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
